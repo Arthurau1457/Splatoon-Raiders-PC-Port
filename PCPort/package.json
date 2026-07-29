@@ -1,0 +1,12 @@
+{
+  "name": "splatoon-raiders-pc",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Splatoon Raiders PC port guide — Nintendo Switch 2 emulator setup",
+  "scripts": { "dev": "tsx src/main.ts", "test": "vitest" },
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "typescript": "^5.5.4",
+    "vitest": "^1.6.0"
+  }
+}

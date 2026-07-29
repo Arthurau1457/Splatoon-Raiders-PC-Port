@@ -1,0 +1,10 @@
+{
+  "shoot":   { "key": "ZR",     "description": "Shoot ink" },
+  "squid":   { "key": "B",      "description": "Squid form" },
+  "jump":    { "key": "A",      "description": "Jump / super jump" },
+  "bomb":    { "key": "R",      "description": "Sub weapon" },
+  "special": { "key": "ZL+L",   "description": "Special weapon" },
+  "gyro":    { "key": "Mouse",  "description": "Aim" },
+  "map":     { "key": "Minus",  "description": "Open map" },
+  "pause":   { "key": "Plus",   "description": "Pause / menu" }
+}

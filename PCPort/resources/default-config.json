@@ -1,0 +1,11 @@
+{
+  "emulator": "ryujinx",
+  "resolution": "4K",
+  "renderer": "vulkan",
+  "ldnEnabled": true,
+  "gyroMode": "mouse",
+  "gyroSensitivity": 1.0,
+  "fpsTarget": 60,
+  "vsync": false,
+  "shaderCache": true
+}
